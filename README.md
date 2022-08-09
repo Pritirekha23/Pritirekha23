@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritirekha Panda</h1>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1400%2F1*qdAW1TjCN57h1lbuuzvchg.gif&imgrefurl=https%3A%2F%2Farieljakubowski.medium.com%2Fi-passed-every-coding-challenge-at-flatiron-school-my-first-try-heres-how-23302a1bfe46&docid=0mKPiLrZS3atRM&tbnid=lahMOKRfUGYsqM&vet=1&w=800&h=600&hl=en-GB&source=sh%2Fx%2Fim">---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritirekha23&label=Profile%20views&color=0e75b6&style=flat" alt="pritirekha23" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pritirekha23&label=Profile%20views&color=0e75b6&style=flat" alt="pritirekha23"/p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritirekha23" alt="pritirekha23" /></a> </p>
 
