@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritirekha Panda</h1>
 <h3 align="center"><b><i>CSE Student</i></b></h3>
-
+ <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="350" height="370" align='right'/>
 
 
 <p align="left"> <a href="https://twitter.com/pandapritirekha" target="blank"><img src="https://img.shields.io/twitter/follow/pandapritirekha?logo=twitter&style=for-the-badge" alt="pandapritirekha" /></a> </p>
