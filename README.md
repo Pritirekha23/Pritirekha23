@@ -25,8 +25,6 @@
 
 
 
----
-[![](https://visitcount.itsvg.in/api?id=Pritirekha23&icon=5&color=10)](https://visitcount.itsvg.in)
 
 
 <h2><b><i> Thank you for visiting my profile</i><b></h2>
