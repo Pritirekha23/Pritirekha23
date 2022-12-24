@@ -21,7 +21,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Pritirekha23&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
 
 
