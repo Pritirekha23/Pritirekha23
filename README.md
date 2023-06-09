@@ -18,7 +18,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=pandapritirekha)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### ✍️  Quote
+## ✍️  Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
