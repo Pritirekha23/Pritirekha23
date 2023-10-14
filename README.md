@@ -26,6 +26,6 @@
 
 
 <h2><b><i> Thank you for visiting my profile</i><b></h2>
-<hr>
+<hr><hr>
 
 
