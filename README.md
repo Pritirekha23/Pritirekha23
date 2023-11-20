@@ -6,7 +6,7 @@
  <br>-🌱 I’m currently learning <b><mark>REACT JS</mark></b><br>- 💬 Ask me about <b>C,DSA,JAVA,HTML,CSS,JS,GIT & GUTHUB,PYTHON</b><br>- 📫 How to reach me <b>learnpriti23@gmail.com</b>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iampritirekha) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pandapritirekha) 
 
 # 💻 Tech Stack:
