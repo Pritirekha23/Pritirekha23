@@ -2,7 +2,7 @@
 <h3 align="center"><b><i>⚡CSE Student⚡</i></b></h3>
  
 # 💫 About Me:
- <br>-🌱 I’m currently learning <b><mark>Django</mark></b><br>- 💬 Ask me about <b>C,DSA,JAVA,HTML,CSS,JS,GIT & GUTHUB,PYTHON</b><br>- 📫 How to reach me <b>learnpriti23@gmail.com</b>
+ <br>-🌱 I’m currently learning <b><mark>Django</mark></b><br>- 💬 Ask me about <b>C,DSA,JAVA,HTML,CSS,JS,GIT & GITHUB,PYTHON</b><br>- 📫 How to reach me <b>learnpriti23@gmail.com</b>
 
 
 # 🌐 Socials:
