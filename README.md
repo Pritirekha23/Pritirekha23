@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pritirekha Panda☘️</h1>
-<h3 align="center"><b><i>⚡CSE Student⚡</i></b></h3>
+<h3 align="center"><b><i>⚡Software Developer⚡</i></b></h3>
  
 # 💫 About Me:
- <br>-🌱 I’m currently learning <b><mark>Django</mark></b><br>- 💬 Ask me about <b>C,DSA,JAVA,HTML,CSS,JS,GIT & GITHUB,PYTHON</b><br>- 📫 How to reach me <b>learnpriti23@gmail.com</b>
+ <br>-🌱- 💬 Ask me about <b>C,DSA,JAVA,HTML,CSS,JS,Reactjs,MUI ,GIT & GITHUB,PYTHON,Django,MySQL</b><br>- 📫 How to reach me <b>learnpriti23@gmail.com</b>
 
 
 # 🌐 Socials:
