@@ -4,9 +4,10 @@
 ---
 
 ## 💫 About Me:
-- 🌱 Currently learning **Advanced React.js & System Design**  
+- 🌱 Currently learning **Advanced React.js, Next.js & System Design**  
+- 🤖 Exploring **Agentic AI & Intelligent Workflow Systems**  
 - 💻 Passionate about **Web Development, Problem Solving & Open Source**  
-- 💬 Ask me about **C, DSA, Java, HTML, CSS, JavaScript, React.js, MUI, Git & GitHub, Python, Django, MySQL**  
+- 💬 Ask me about **C, DSA, Java, HTML, CSS, JavaScript, React.js, Next.js, MUI, Shadcn, Git & GitHub, Python, Django, FastAPI, MySQL, MongoDB, GCP**  
 - 📫 Reach me at **learnpriti23@gmail.com**  
 - 🎯 Goal: To become a **Full Stack Developer & contribute to impactful projects**  
 - ⚡ Fun fact: *I love exploring new tech and making creative UIs ✨*  
@@ -22,7 +23,7 @@
 
 ## 🛠️ Languages & Tools:
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,redux,materialui,tailwind,bootstrap,git,github,mysql,mongodb,django,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,nextjs,redux,materialui,tailwind,bootstrap,shadcn,django,fastapi,mysql,mongodb,git,github,docker,gcp,vscode,postman" />
 </p>
 
 ---
@@ -31,7 +32,7 @@
 - 🔹 **Task Management System** (MERN Stack)  
 - 🔹 **CRM System** (Django + MySQL)  
 - 🔹 **Spare Parts Management System** (Django + Responsive UI)  
-- 🔹 **Workflow Node Editor** (React Flow + Next.js)  
+- 🔹 **Workflow Node Editor** (React Flow + Next.js + Agentic AI)  
 
 ---
 
@@ -47,6 +48,20 @@
  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pritirekha23&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Activity Graph:
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pritirekha23&theme=radical" alt="Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake:
+<p align="center">
+  <img src="https://github.com/Pritirekha23/Pritirekha23/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
