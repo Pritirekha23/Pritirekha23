@@ -29,10 +29,10 @@
 ---
 
 ## 🚀 Projects:
-- 🔹 **Task Management System** (MERN Stack)  
-- 🔹 **CRM System** (Django + MySQL)  
-- 🔹 **Spare Parts Management System** (Django + Responsive UI)  
-- 🔹 **Workflow Node Editor** (React Flow + Next.js + Agentic AI)  
+🔹 **Task Management System** (MERN Stack)  
+🔹 **CRM System** (Django + MySQL)  
+🔹 **Spare Parts Management System** (Django + Responsive UI)  
+🔹 **Workflow Node Editor** (React Flow + Next.js + Agentic AI)  
 
 ---
 
