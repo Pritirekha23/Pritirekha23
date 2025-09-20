@@ -59,13 +59,6 @@
 
 ---
 
-## 🐍 Contribution Snake:
-<p align="center">
-  <img src="https://github.com/Pritirekha23/Pritirekha23/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
----
-
 ## ✨ Fun Zone:
 - 🌸 *“Code. Debug. Repeat. Until success becomes a habit.”*  
 - 🎶 I code better with **music** in the background  
@@ -75,6 +68,5 @@
 
 [![](https://visitcount.itsvg.in/api?id=Pritirekha23&icon=0&color=6)](https://visitcount.itsvg.in)
 
----
 
 <h2 align="center"><b><i>💖 Thank you for visiting my profile 💖</i></b></h2>
