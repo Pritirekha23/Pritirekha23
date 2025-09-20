@@ -4,7 +4,7 @@
 ---
 
 ## 💫 About Me:
-- 🌱 Currently learning **Advanced React.js, Next.js & System Design**  
+- 🌱  Worked with **Advanced React.js, Next.js**  
 - 🤖 Exploring **Agentic AI & Intelligent Workflow Systems**  
 - 💻 Passionate about **Web Development, Problem Solving & Open Source**  
 - 💬 Ask me about **C, DSA, Java, HTML, CSS, JavaScript, React.js, Next.js, MUI, Shadcn, Git & GitHub, Python, Django, FastAPI, MySQL, MongoDB, GCP**  
