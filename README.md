@@ -28,14 +28,6 @@
 
 ---
 
-## 🚀 Projects:
-🔹 **Task Management System** (MERN Stack)  
-🔹 **CRM System** (Django + MySQL)  
-🔹 **Spare Parts Management System** (Django + Responsive UI)  
-🔹 **Workflow Node Editor** (React Flow + Next.js + Agentic AI)  
-
----
-
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pritirekha23&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
